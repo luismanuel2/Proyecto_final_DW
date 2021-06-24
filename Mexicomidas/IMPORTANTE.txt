@@ -1,0 +1,15 @@
+**la pagina principal es home.html**
+
+Pasos para que funcione correctamente la base de datos.
+
+1. Instalar node.js
+	1.1 Descargarlo de https://nodejs.org/en/download/
+	1.2 Instalarlo 
+	1.3 Reiniciar la computadora 
+2. Abrir la carpeta principal (Mexicomidas) dentro del CMD 
+3. Ingresar la línea: cd assets/js
+4. Ingresar el comando: npm i
+5. Ingresar el comando: npm run dev
+
+Ahora la base de datos funciona correctamente, por lo que la
+página de "iniciar sesión" deberá funcionar sin ningún problema
