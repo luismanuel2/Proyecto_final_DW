@@ -1,2 +1,2 @@
 # Proyecto_final_DW
-proyecto final de desarrollo web
+Leer el archivo IMPORTANTE.txt antes abrir home.html
